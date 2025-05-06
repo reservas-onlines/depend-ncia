@@ -1,7 +1,7 @@
 Componentes:
-Ana Francisca
-Maria de Jesus
-Sthefany Dantas
+Ana Francisca, 
+Maria de Jesus, 
+Sthefany Dantas.
 
 TEMA:
 
